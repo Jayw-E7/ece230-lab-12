@@ -16,8 +16,7 @@ Parker Williams
 Jonah Elliott
 
 ## Summary
-We are using combinatorial logic and FSM design to
-
+We are using combinatorial logic and FSM design to design a finite 5-state machine with both one hot and binary encodings.
 
 ## Lab Questions
 
